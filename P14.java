@@ -1,11 +1,14 @@
 import java.util.Scanner;
 /*
+ * http://codeforces.com/contest/265/problem/B
+ *
  * in this problem we just need to calculate 
  * difference between current position and 
  * next position we should move to, ot find how much 
  * time we need to move vertically
  * and add time to eat nuts (n) and also time to move 
  * from current tree to next tree (n-1)
+ * 
  */
 
 public class P14 {
