@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/*
+	/*  http://codeforces.com/problemset/problem/285/B
 	 * in the problem we have starting position and final position
 	 * and we have positions after each shuffle. 
 	 * so we just save current position and find where we will land our marble after each shuffle
