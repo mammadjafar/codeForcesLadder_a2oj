@@ -8,7 +8,7 @@ import java.util.Scanner;
  * we check if length's are the same and no need for tree it's array. and last one is both     
  */
 
-public class P15 {
+public class P16 {
 	
 	
 	
