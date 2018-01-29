@@ -17,10 +17,10 @@ import java.util.Scanner;
 public class P22 {
 	
 	public static void main(String [] args) {
-		p362b();
+		p279b();
 	}
 	
-	public static void p362b() {
+	public static void p279b() {
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
 		long t = in.nextLong();
