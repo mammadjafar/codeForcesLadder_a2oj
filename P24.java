@@ -15,7 +15,7 @@ import java.util.Scanner;
  * 
  */
 
-public class P19 {
+public class P24 {
 	
 	public static void main(String [] args) {
 		p509b();
