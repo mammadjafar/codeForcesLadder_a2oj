@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
- * In this Problem we first check is we have some element in second string 
+ * In this Problem we first check if we have some element in second string 
  * which is not in first. Also we should check the count. so first calculate 
  * each char in each string, then check in first string. in second loop we 
  * check if we can do it with just deletion (automaton). If not just automaton
